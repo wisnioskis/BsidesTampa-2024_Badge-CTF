@@ -4,6 +4,11 @@ Bsides 2024 had a really fun CTF badge challenge created by c0ldbru. I rooted hi
 
 Before you get started, you need to flash the disk image [Disk image of recreated CTF challenge](https://nextcloud.l3pr.org/s/aPssoP4f9ZDZKSY) to a >16gb microsd card and plug it into a raspberry pi.
 
+I've added a torrent and checksums (of the original image).
+
+MD5: f664a6319ab1f76aeadb8b89ab2dec44
+SHA256: 013861dbba44d0832f8280730bb049fcbc84e2b087c8407f7bbae3af0546ff23
+
 For this CTF challenge, you just checked in to Bsides Tampa 2024, and noticed some strange coded messages on your badge. Check out the pictures here:
 
 [Picture of the front of a Bsides Tampa 2024 badge.](assets/badgepics/Front1.png)
